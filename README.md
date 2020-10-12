@@ -1,2 +1,4 @@
 # AIRECYC
-Iinicia Sesion
+Inicia Sesion
+                                                               Correo
+                                                               Contraseña
